@@ -8,6 +8,8 @@
 6) Run `php artisan serve` <br>
 7) select product page in nav . <br>
 
+for payment method use dummay CARD NUMBER `4242 4242 4242 4242 ` 
+
 
 
 
